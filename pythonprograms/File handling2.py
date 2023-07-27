@@ -1,0 +1,5 @@
+f=open("a2.txt","w")
+f.write("\nGood morning")
+f.write("\nHave a nice day")
+f.write("\n Enjoy!")
+f.close()
